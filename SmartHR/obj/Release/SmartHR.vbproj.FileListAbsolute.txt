@@ -1,0 +1,9 @@
+D:\Project\Kuliah\PPSI\SmartHR\SmartHR\bin\SmartHR.dll
+D:\Project\Kuliah\PPSI\SmartHR\SmartHR\bin\SmartHR.pdb
+D:\Project\Kuliah\PPSI\SmartHR\SmartHR\bin\SmartHR.xml
+D:\Project\Kuliah\PPSI\SmartHR\SmartHR\obj\Release\SmartHR.vbprojResolveAssemblyReference.cache
+D:\Project\Kuliah\PPSI\SmartHR\SmartHR\obj\Release\SmartHR.Resources.resources
+D:\Project\Kuliah\PPSI\SmartHR\SmartHR\obj\Release\SmartHR.vbproj.GenerateResource.Cache
+D:\Project\Kuliah\PPSI\SmartHR\SmartHR\obj\Release\SmartHR.dll
+D:\Project\Kuliah\PPSI\SmartHR\SmartHR\obj\Release\SmartHR.xml
+D:\Project\Kuliah\PPSI\SmartHR\SmartHR\obj\Release\SmartHR.pdb

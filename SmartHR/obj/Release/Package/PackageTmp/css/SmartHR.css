@@ -1,0 +1,102 @@
+﻿a:link {color:#0066CC; text-decoration:none;}
+a:hover {color:#0015B6; text-decoration:none;}
+a:active {color:#CC0000; text-decoration:none;}
+a:visited {color:#0066CC; text-decoration:none;}
+
+a.underline:link {color:#0066CC; text-decoration: underline;}
+a.underline:hover {color:#0015B6; text-decoration: underline;}
+a.underline:active {color:#CC0000; text-decoration: underline;}
+a.underline:visited {color:#0066CC; text-decoration: underline;}
+
+body {
+scrollbar-3dlight-color:#B3C76D;
+scrollbar-arrow-color:#999999;
+scrollbar-track-color:#ededed;
+scrollbar-darkshadow-color:#B3C76D;
+scrollbar-face-color:#DCE2C9;
+scrollbar-highlight-color:#DCE2C9;
+scrollbar-shadow-color:#DCE2C9;
+}
+
+font {
+	font-family: Verdana, Arial, Tahoma, sans-serif;
+	font-size: 11px;
+}
+
+select {font-family:verdana,Arial,tahoma,san-serif;font-size:11px;color:#000000;background-color:#F4F4F4;border-color:#003399;border-style:solid;border-width:1px;}
+
+TABLE	{font-family:verdana,Arial,tahoma,sans-serif; font-size:11px;border:0px}
+
+.fontbesar {
+	font-family: Verdana, Arial, Tahoma, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+.inptype
+ {font-family:verdana,Arial,tahoma,san-serif;font-size:11px;color:#000000;background-color:#FFFFFF;border-bottom: 1px solid #C1C1C1;border-right: 1px solid #C1C1C1;border-left: 1px solid #C1C1C1;border-top: 1px solid #C1C1C1;}
+
+.inptypehijau
+ {font-family:verdana,Arial,tahoma,san-serif;font-size:11px;color:#000000;background-color:#D9E3B6;border-bottom: 1px solid #B6C973;border-right: 1px solid #B6C973;border-left: 1px solid #B6C973;border-top: 1px solid #B6C973;height:20px;}
+
+.pbttn
+ {font-family:verdana,Arial,tahoma,sans-serif;font-size:10px;background: #9FB359;border-bottom: 1px solid #333333;border-right: 1px solid #333333;border-left: 1px solid #D9E3B6;border-top: 1px solid #D9E3B6;color:#FFFFFF;height: 22px;text-decoration:none;padding-left: 3px;padding-right: 3px;padding-top:1px;cursor: hand;}
+
+.tablegrid
+{
+	border:0px;
+	background-color: #E7E3E7;
+}
+
+.tab
+{
+	font-family: Verdana, Arial, Tahoma, sans-serif;
+	font-weight: bold;
+	font-size: 10px;
+	color: #7A8F32;
+}
+
+.tdjudul
+{
+	background-color: #F4F4DF;
+	font-weight: bold;
+	font-size: 10px;
+}
+
+.tdtopi
+{
+	background-color: #E0E0A3;
+	font-weight: bold;
+}
+
+.tdtopikiri
+{
+	background-image: url(Images/HijauKiri.gif);
+}
+
+.tdtopikanan
+{
+	background-image: url(Images/HijauKanan.gif);
+}
+
+
+.tdganjil
+{background-color: #FFFFFF;}
+
+.tdgenap
+{background-color: #F4FAFF;}
+
+
+.opaqueLayer
+{
+    width:100%;
+    height:100%;
+    z-index:100;
+	visibility:hidden;
+	cursor:wait;
+	position:absolute;
+	top:0px;
+	left:0px;
+	filter:alpha(opacity=30);
+	background-color:white;	
+	height: expression(document.body.scrollHeight);  
+}
